@@ -1,8 +1,8 @@
 package org.playground.creational.abstractfactory;
 
-import org.playground.creational.abstractfactory.pojo.CPU;
-import org.playground.creational.abstractfactory.pojo.Disk;
-import org.playground.creational.abstractfactory.pojo.MainBoard;
+import org.playground.creational.pojo.CPU;
+import org.playground.creational.pojo.Disk;
+import org.playground.creational.pojo.MainBoard;
 
 public interface ComputerFactory {
 

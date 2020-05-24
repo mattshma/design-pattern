@@ -1,6 +1,6 @@
 package org.playground.creational.abstractfactory;
 
-import org.playground.creational.abstractfactory.pojo.*;
+import org.playground.creational.pojo.*;
 
 public class AmdFactory implements ComputerFactory {
 

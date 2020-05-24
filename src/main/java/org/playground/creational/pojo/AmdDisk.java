@@ -1,4 +1,4 @@
-package org.playground.creational.abstractfactory.pojo;
+package org.playground.creational.pojo;
 
 public class AmdDisk implements Disk {
 
